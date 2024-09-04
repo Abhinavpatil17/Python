@@ -36,4 +36,6 @@ This repository is licensed under the [MIT License](https://opensource.org/licen
 
 Please respect the copyright of the code you find here. Specific contributions within the repository may have additional licensing details in their associated READMEs. 📜
 
+---
+
 **🎉Unleash the Power of Python!🐍**
